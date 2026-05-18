@@ -4,7 +4,7 @@
     "name": "MEV Heavy Industries",
     "abstract": "Daedalus, Bussard and Epstein drives for Kerbal Space Program.",
     "author": "zer0Kerbal",
-    "version": "1.0.1.0-release",
+    "version": "1:1.0.1.0-release",
     "ksp_version_min": "1.7.1",
     "ksp_version_max": "1.11.9999",
     "license": "CC-BY-NC-SA",
