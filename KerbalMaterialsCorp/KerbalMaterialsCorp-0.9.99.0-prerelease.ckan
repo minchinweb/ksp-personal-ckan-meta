@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "KerbalMaterialsCorp",
     "name": "Kerbal Materials Corp",
     "abstract": "Agent, flags and common configs for Kerbal Material Corp. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/",
         "repository": "https://github.com/zer0Kerbal/KerbalMaterialsCorp",
         "bugtracker": "https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues",
+        "discussions": "https://github.com/zer0Kerbal/KerbalMaterialsCorp/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalMaterialsCorp/master/KerbalMaterialsCorp.version"
     },
     "tags": [
@@ -31,7 +32,7 @@
         "sha1": "847DF9DFB03036C4CE48A9FBB8089B3288088A7B",
         "sha256": "CC2C1C07C03B3FC64747DC20699721DB165A83F5241E830936B4AB614BEF52B4"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 950378,
     "release_date": "2022-12-20T06:40:16Z",
     "_$kref": "#/ckan/spacedock/3176",

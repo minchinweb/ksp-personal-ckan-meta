@@ -1,0 +1,61 @@
+{
+    "spec_version": "v1.36",
+    "identifier": "DMTanks-SphericalTanks",
+    "name": "Spherical Tanks",
+    "abstract": "Have you ever needed a set of spherical tanks of various capacities, to use for a refueling depot? an interplanetary mothership? A resource extraction base? Have you ever wanted a different tank options? DaMichel's Spherical Tanks might just be for you. For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.1.0.1-prerelease",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.9.9999",
+    "license": "CC-BY-SA",
+    "release_status": "testing",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/",
+        "repository": "https://github.com/zer0Kerbal/SphericalTanks",
+        "bugtracker": "https://github.com/zer0Kerbal/SphericalTanks/issues",
+        "discussions": "https://github.com/zer0Kerbal/SphericalTanks/discussions",
+        "remote-avc": "https://raw.github.com/zer0Kerbal/SphericalTanks/master/SphericalTanks.version"
+    },
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "DaMichelLtd"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DMTanks-AeroRTG"
+        },
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        },
+        {
+            "name": "DMTanks-SphericalTanks"
+        }
+    ],
+    "install": [
+        {
+            "find": "SphericalTanks",
+            "install_to": "GameData/DaMichel"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SphericalTanks/zipball/1.1.0.1-prerelease",
+    "download_size": 7076258,
+    "download_hash": {
+        "sha256": "DDCF87B1835785E563E8D7858D108BFA7F517D4D13B898BCCE04943D302AE3C0"
+    },
+    "download_content_type": "application/vnd.github+json",
+    "install_size": 4474025,
+    "release_date": "2022-07-30T04:43:51Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

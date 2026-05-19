@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "HotBeverageInc",
     "name": "Hot Beverage Inc",
     "abstract": "Agency, flag(s) and common configs for Hot Beverage Inc (HBI). For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/",
         "repository": "https://github.com/zer0Kerbal/HotBeverageInc",
         "bugtracker": "https://github.com/zer0Kerbal/HotBeverageInc/issues",
+        "discussions": "https://github.com/zer0Kerbal/HotBeverageInc/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/HotBeverageInc.version"
     },
     "tags": [
@@ -36,7 +37,7 @@
         "sha1": "E6D36366846AA45CE49252BE574FD79307223B7C",
         "sha256": "6C5DF9665910582F8E56744B198A79409A6DF033AA256EFCF0FD5AC816417D79"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 503174,
     "release_date": "2022-12-31T03:20:36Z",
     "_$kref": "#/ckan/spacedock/3030",

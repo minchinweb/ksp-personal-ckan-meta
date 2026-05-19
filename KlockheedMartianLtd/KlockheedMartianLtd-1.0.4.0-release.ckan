@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "KlockheedMartianLtd",
     "name": "Klockheed Martian Ltd",
     "abstract": "Our Mission is Kerbol. This add-on provides a common agent, flags, and configs for all Klockheed Martian products, for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/",
         "repository": "https://github.com/zer0Kerbal/KlockheedMartianLtd",
         "bugtracker": "https://github.com/zer0Kerbal/KlockheedMartianLtd/issues",
+        "discussions": "https://github.com/zer0Kerbal/KlockheedMartianLtd/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/KlockheedMartianLtd.version"
     },
     "tags": [
@@ -34,7 +35,7 @@
         "sha1": "E5B6004CEDD5E4720B447C529D89BF1624DA4CE9",
         "sha256": "157CA672898250887C2A47CD0E2B637B8C4AEDE0FC5CB37FE53A942D36301612"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 594389,
     "release_date": "2023-06-22T22:03:48Z",
     "_$kref": "#/ckan/spacedock/3025",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "PreciseManeuver",
     "name": "Precise Maneuver",
     "abstract": "Precise Maneuver plugin provides a window for more precise maneuver node editing. For Kerbal Space Program (KSP).",
@@ -14,6 +14,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/",
         "repository": "https://github.com/zer0Kerbal/PreciseManeuver",
         "bugtracker": "https://github.com/zer0Kerbal/PreciseManeuver/issues",
+        "discussions": "https://github.com/zer0Kerbal/PreciseManeuver/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/PreciseManeuver.version"
     },
     "tags": [
@@ -46,7 +47,7 @@
         "sha1": "A1A44143F622967EDDD5EC310B8C9F3146D0E334",
         "sha256": "95069C5970F0F46FD84C3AEDC8C0A1EFD4BD27D2D0D16AA62502098A43E12DE8"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 192322,
     "release_date": "2023-01-08T06:17:43Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

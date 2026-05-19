@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "NukesTinyPods",
     "name": "Nukes Tiny Pods",
     "abstract": "Tiny part addon that adds Nuke's Tiny Pods (okay, just one for now) for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209399-*/",
         "repository": "https://github.com/zer0Kerbal/NukesTinyPods",
         "bugtracker": "https://github.com/zer0Kerbal/NukesTinyPods/issues",
+        "discussions": "https://github.com/zer0Kerbal/NukesTinyPods/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/NukesTinyPods.version"
     },
     "tags": [
@@ -40,7 +41,7 @@
         "sha1": "736DFFC9CF7532E87AA364A140DC99E58EDD1751",
         "sha256": "25FC8BEE68104CBC62302D7D513E61BE66782DEF1108656F72D8E862DA1024DF"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1039477,
     "release_date": "2023-06-30T04:34:50Z",
     "_$kref": "#/ckan/spacedock/3086",

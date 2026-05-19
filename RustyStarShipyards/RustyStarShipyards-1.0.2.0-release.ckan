@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "RustyStarShipyards",
     "name": "Rusty Star Shipyards",
     "abstract": "Adds Rusty Star Shipyards's agent, flags, and common config files used in all Rusty Star Rockets add-ons for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/",
         "repository": "https://github.com/zer0Kerbal/RustyStarShipyards",
         "bugtracker": "https://github.com/zer0Kerbal/RustyStarShipyards/issues",
+        "discussions": "https://github.com/zer0Kerbal/RustyStarShipyards/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/RustyStarShipyards.version"
     },
     "tags": [
@@ -49,7 +50,7 @@
         "sha1": "61E9B7EBD99A4D5716620976B2B393D3BF9E6F3F",
         "sha256": "D300AFB706DE23694FA6758BDA847516132DC676C18A95C7BAA4F31AC7085824"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 789518,
     "release_date": "2023-03-19T08:21:01Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

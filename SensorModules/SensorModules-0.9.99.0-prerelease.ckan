@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SensorModules",
     "name": "Sensor Modules",
     "abstract": "Exterior of your spaceships are too cluttered? Sensors hanging all about? Ever confuse a gravioli sensor with a thermo cup of tea? Well, we have the King of advanced science tech for you! The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE! Grab it at our shop while it's still hot! Or better don't. Because it's hot! For KSP.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/",
         "repository": "https://github.com/zer0Kerbal/SensorModules",
         "bugtracker": "https://github.com/zer0Kerbal/SensorModules/issues",
+        "discussions": "https://github.com/zer0Kerbal/SensorModules/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/SensorModules.version"
     },
     "tags": [
@@ -36,7 +37,7 @@
         "sha1": "222D2FDDE58416632753411DAC75C814D86730FA",
         "sha256": "864A814DCEBBC073BB02EE9D62D2627D4596F814A3C75F817715332B4D580377"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1610389,
     "release_date": "2023-01-02T07:37:12Z",
     "_$kref": "#/ckan/spacedock/3184",

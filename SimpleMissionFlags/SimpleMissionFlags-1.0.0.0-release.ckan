@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SimpleMissionFlags",
     "name": "Simple Mission Flags",
     "abstract": "An assortment of flags to mark everyday missions. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209364-*/",
         "repository": "https://github.com/zer0Kerbal/SimpleMissionFlags",
         "bugtracker": "https://github.com/zer0Kerbal/SimpleMissionFlags/issues",
+        "discussions": "https://github.com/zer0Kerbal/SimpleMissionFlags/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleMissionFlags/master/SimpleMissionFlags.version"
     },
     "depends": [
@@ -30,7 +31,7 @@
         "sha1": "57CFF54AAA6D6FC3EA5D440717F3869AFF8C0E04",
         "sha256": "8ABE27D5CFDECF9412FD4C77B4DD37F3704275338E48AD2C68E9C0AEE14963F4"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 224707,
     "release_date": "2022-08-15T04:58:40Z",
     "_$kref": "#/ckan/spacedock/3083",

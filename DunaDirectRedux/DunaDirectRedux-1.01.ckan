@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.27",
+    "spec_version": "v1.4",
     "identifier": "DunaDirectRedux",
     "name": "Duna Direct Redux",
     "abstract": "Based on the proposal for \"Mars Direct\" by Robert Zubrin and David Baker of\nMartin Marietta, 1990.\n\nUse without mods as stock, or the suggested mods.\n\nFlight plan:\n- Launch inside 5m expanded fairing\n- Aim for Duna\n- Aerobreaking entry at Duna\n- Heatshield jettison and parachute deployment\n- Landing gear deployment and reverse thrust\n- Perform science!\n- Built-in Sabatier conversion regenerates fuel for return\n- Repack parachute\n- Launch for Kerbin\n- Jettison first stage\n- Atmospheric re-entry at Kerbin\n- Parachute deployment and landing\n\nFlight crew:\n- Pilot for vessel control\n- Engineer for repacking parachutes\n- Two scientists for running the science lab\n",

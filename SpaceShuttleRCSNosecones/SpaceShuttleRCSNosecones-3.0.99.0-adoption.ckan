@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SpaceShuttleRCSNosecones",
     "name": "Space Shuttle RCS Nosecones",
     "abstract": "Ever thought, that you need an actual nosecone for plane parts? This parts addon adds nosecones containing Monopropellant and mostly translational RCS-Thrusters. Ideal for keeping your nose up during reentry! For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209188-*/",
         "repository": "https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones",
         "bugtracker": "https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues",
+        "discussions": "https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleRCSNosecones/master/SpaceShuttleRCSNosecones.version"
     },
     "tags": [
@@ -36,7 +37,7 @@
         "sha1": "5A41AF71D0B42E6BC78918FEFA81E98B89E10A76",
         "sha256": "7676A975D613A992B780DAC4354588A0A3E8B9B317839895256F502023847ECD"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 390921,
     "release_date": "2022-08-04T07:51:14Z",
     "_$kref": "#/ckan/spacedock/3068",

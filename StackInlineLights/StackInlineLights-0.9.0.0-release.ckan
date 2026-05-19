@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "StackInlineLights",
     "name": "Stack Inline Lights",
     "abstract": "Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.  A.S.E.T. Stack Inline Lights (SIL) {RGB} full color and brightness control and in many sizes! For KSP.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/",
         "repository": "https://github.com/zer0Kerbal/StackInlineLights",
         "bugtracker": "https://github.com/zer0Kerbal/StackInlineLights/issues",
+        "discussions": "https://github.com/zer0Kerbal/StackInlineLights/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/StackInlineLights.version"
     },
     "tags": [
@@ -36,7 +37,7 @@
         "sha1": "77168E889A5C159B8C3F0F96E82102FF54497A0C",
         "sha256": "AE1667BA03D887C3ABB8B58B7527BC8679D5549AEC71F0A612501D19701B3B12"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1361725,
     "release_date": "2023-02-28T07:19:12Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

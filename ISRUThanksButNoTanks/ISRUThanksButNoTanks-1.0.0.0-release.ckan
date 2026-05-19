@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "ISRUThanksButNoTanks",
     "name": "ISRU Thanks But No Tanks",
     "abstract": "ModularManagement config script for to allow mining and converting Ore without storage tanks by adding a small amount of storage to stock parts. For Kerbal Space Program.",
@@ -14,6 +14,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204750-*/",
         "repository": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks",
         "bugtracker": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues",
+        "discussions": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ISRUThanksButNoTanks/master/ISRUThanksButNoTanks.version"
     },
     "tags": [
@@ -46,7 +47,7 @@
         "sha1": "72A9D5AB0682C5191B8E40EF8572D6C8EE1CB1BB",
         "sha256": "A091D578AF700CBDFAC49CAA3E76EF76DF98CBBEC7BC138D5438E7577780AB87"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 50635,
     "release_date": "2023-04-24T01:59:23Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

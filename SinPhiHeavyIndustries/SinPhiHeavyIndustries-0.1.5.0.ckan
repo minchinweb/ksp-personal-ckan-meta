@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SinPhiHeavyIndustries",
+    "name": "Sin Phi Heavy Industries",
+    "abstract": "assortment of parts that I design. Current parts are a 30m Habitat, solar panel fan and RDEs (Rotating Detonation Engine).\n",
+    "author": "Sin Phi",
+    "version": "0.1.5.0",
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/162654-*",
+        "repository": "https://github.com/Turbinia/SinPhiHeavyIndustries",
+        "remote-avc": "https://raw.githubusercontent.com/Turbinia/SinPhiHeavyIndustries/master/GameData/SinPhiHeavyIndustries/Versioning/SinPhiHeavyIndustries.version"
+    },
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Goodspeed"
+        }
+    ],
+    "install": [
+        {
+            "find": "SinPhiHeavyIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/Turbinia/SinPhiHeavyIndustries/archive/refs/heads/master.zip",
+    "download_size": 3025489,
+    "download_hash": {
+        "sha1": "1B3CC23032804D33F7704F4F811C59236BCA34B1",
+        "sha256": "0E7394907099E8215E8FC53074B83D81B4EE2F394C5624EF63E38444D221AC98"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 10266665,
+    "_$kref": "#/ckan/github/Turbinia/SinPhiHeavyIndustries",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

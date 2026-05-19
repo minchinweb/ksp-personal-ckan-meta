@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "ProbiTronics",
     "name": "Probi Tronics",
     "abstract": "Specialized probes and reusability parts. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/",
         "repository": "https://github.com/zer0Kerbal/ProbiTronics",
         "bugtracker": "https://github.com/zer0Kerbal/ProbiTronics/issues",
+        "discussions": "https://github.com/zer0Kerbal/ProbiTronics/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/ProbiTronics.version"
     },
     "tags": [
@@ -37,7 +38,7 @@
         "sha1": "65EA08AAED32FC69C567988A1A7AB549F46B91FF",
         "sha256": "1030AA9CCA481D86F7D8F38B857DCA12CA07433B0B5835372F3CD20D3DC4714A"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 9188857,
     "release_date": "2022-09-03T02:45:19Z",
     "_$kref": "#/ckan/spacedock/3029",

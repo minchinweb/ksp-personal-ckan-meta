@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LanderTek",
     "name": "Lander Tek",
     "abstract": "This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/",
         "repository": "https://github.com/zer0Kerbal/LanderTek",
         "bugtracker": "https://github.com/zer0Kerbal/LanderTek/issues",
+        "discussions": "https://github.com/zer0Kerbal/LanderTek/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/LanderTek.version"
     },
     "tags": [
@@ -37,7 +38,7 @@
         "sha1": "D6AAEB5E7BAD96178216CA64693F819A2136EEF9",
         "sha256": "10D04D52C0353F3701F5409B8A0220DDEB9D7D8FD5C587C6588D97FAFF8B45C5"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 9673565,
     "release_date": "2023-02-04T07:33:37Z",
     "_$kref": "#/ckan/spacedock/3020",

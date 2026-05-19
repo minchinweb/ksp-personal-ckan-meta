@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.12",
     "identifier": "MIR",
     "name": "Мир Space Station (MIR)",
     "abstract": "Мир (MIR) Space Station for Kerbal Space Program.\n\nModular space station:\n  - Мир (MIR) Core module with living quarters, six docking ports and a detailed IVA.\n  - Kvant-1 Astrophysics module with an X-ray experiment and a docking port.\n  - FSM space tug for delivering Kvant 1 to the station.\n  - Kvant-2 physics module with an airlock.\n  - Kristall docking module with two additional docking ports.\n  - Spektr power module with 4 solar panels.\n  - Priroda Kerbin observation module with a big Travers antenna.\n  - Docking Compartment for improving docking clearance. By Blista100, used with permission.\n  - Zarya FGB with high fuel load and RCS configured for flying with Unity module attached.\n  - Zvezda service module (MIR Core variant) with 4 docking ports.\n  - New solar panels and an ISS-style docking port.\n",

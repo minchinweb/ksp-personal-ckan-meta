@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "DragonRider",
     "name": "Dragon Rider",
     "abstract": "Dragon Rider (Originally By cBBp) for Kerbal Space Program.",
@@ -14,6 +14,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210281-*/",
         "repository": "https://github.com/zer0Kerbal/DragonRider",
         "bugtracker": "https://github.com/zer0Kerbal/DragonRider/issues",
+        "discussions": "https://github.com/zer0Kerbal/DragonRider/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/DragonRider.version"
     },
     "tags": [
@@ -40,7 +41,7 @@
         "sha1": "B88BC13B20DAE8275DAFCBA7D46A6949CC2831AB",
         "sha256": "7DEBC34E9CF2AF4EB41CB8B1C99ABD13B0FAC811E248180001493C64734E798E"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 12491613,
     "release_date": "2022-10-28T05:01:00Z",
     "_$kref": "#/ckan/spacedock/3140",

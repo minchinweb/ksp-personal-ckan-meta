@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "NohArksPicknPull",
     "name": "Pickn Pull",
     "abstract": "Adds NohArk's Pick'n'Pull's agent, flags, and common config files for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209965-*/",
         "repository": "https://github.com/zer0Kerbal/PicknPull",
         "bugtracker": "https://github.com/zer0Kerbal/PicknPull/issues",
+        "discussions": "https://github.com/zer0Kerbal/PicknPull/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/PicknPull.version"
     },
     "tags": [
@@ -31,7 +32,7 @@
         "sha1": "F4BD7A747AD7054913B990B07305353DC6DFF2BB",
         "sha256": "D70EF06702769615B67D1F8022EAE8CFE4CE94713AE201913F0304B99F92E657"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 178813,
     "release_date": "2022-10-01T05:12:21Z",
     "_$kref": "#/ckan/spacedock/3130",

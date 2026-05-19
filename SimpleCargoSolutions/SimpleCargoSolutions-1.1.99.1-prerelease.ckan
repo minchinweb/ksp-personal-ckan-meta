@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SimpleCargoSolutions",
     "name": "Simple Cargo Solutions",
     "abstract": "A request came up for just a couple of simple cargo bays.... and here they are!",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/",
         "repository": "https://github.com/zer0Kerbal/SimpleCargoSolutions",
         "bugtracker": "https://github.com/zer0Kerbal/SimpleCargoSolutions/issues",
+        "discussions": "https://github.com/zer0Kerbal/SimpleCargoSolutions/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/SimpleCargo.version"
     },
     "tags": [
@@ -40,7 +41,7 @@
         "sha1": "0018435B645B539D633BE28221728C067C4AE8DA",
         "sha256": "26FA1DA280CD28400CFDAF2574500FE450F238E46869BB635BA84052C9A0D78B"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 7030382,
     "release_date": "2023-02-01T05:02:49Z",
     "_$kref": "#/ckan/spacedock/3139",

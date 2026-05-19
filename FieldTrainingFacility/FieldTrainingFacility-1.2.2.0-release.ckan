@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "FieldTrainingFacility",
     "name": "Field Training Facility",
     "abstract": "This addon provides a training system for your kerbalnauts by adding a training center to all science laboratories. Training consumes Time and Electric Charge. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
         "repository": "https://github.com/zer0Kerbal/FieldTrainingFacility",
         "bugtracker": "https://github.com/zer0Kerbal/FieldTrainingFacility/issues",
+        "discussions": "https://github.com/zer0Kerbal/FieldTrainingFacility/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/FieldTrainingFacility.version"
     },
     "localizations": [
@@ -45,7 +46,7 @@
         "sha1": "28F14A054C903E3293C03FAAC01840FB53034DC0",
         "sha256": "2999D7C518C738B9D47F584F0CA85ACF086C9E2753EE15BE4EA9EFBF0CB2B52D"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 323377,
     "release_date": "2023-01-11T05:58:01Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

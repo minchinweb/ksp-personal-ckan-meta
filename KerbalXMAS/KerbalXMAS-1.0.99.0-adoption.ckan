@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "KerbalXMAS",
     "name": "Kerbal XMAS",
     "abstract": "A holiday themed parts addon for For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/",
         "repository": "https://github.com/zer0Kerbal/KerbalXMAS",
         "bugtracker": "https://github.com/zer0Kerbal/KerbalXMAS/issues",
+        "discussions": "https://github.com/zer0Kerbal/KerbalXMAS/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/KerbalXMAS.version"
     },
     "tags": [
@@ -38,7 +39,7 @@
         "sha1": "7CCD9E3E88FC6ABACB88795A63CB89DF657CB3DE",
         "sha256": "FC3C083A13E860B24ECA72A8E6EAF468572C4D44EAB8434C532396A185586FA6"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 20136227,
     "release_date": "2022-12-24T07:31:34Z",
     "_$kref": "#/ckan/spacedock/3179",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "RadialOmniSeparator",
     "name": "Radial Omni Separator",
     "abstract": "Radial Omni Separator parts for Kerbal Space Program",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/",
         "repository": "https://github.com/zer0Kerbal/RadialOmniSeparator",
         "bugtracker": "https://github.com/zer0Kerbal/RadialOmniSeparator/issues",
+        "discussions": "https://github.com/zer0Kerbal/RadialOmniSeparator/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/RadialOmniSeparator.version"
     },
     "tags": [
@@ -39,7 +40,7 @@
         "sha1": "F9DA23796FE7CF071C880FDD844181C96ACB3084",
         "sha256": "9DDCFB90DE382CBBFB42EAB28E1775459423D22CB56B1EFCD08DF6E5D5DB545B"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 505820,
     "release_date": "2022-12-13T03:12:37Z",
     "_$kref": "#/ckan/spacedock/3129",

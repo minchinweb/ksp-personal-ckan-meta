@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.10",
     "identifier": "SeaDragon",
     "name": "Sea Dragon",
     "abstract": "The infamous, never-built Sea Dragon rocket, in its full scale glory! For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209579-*/",
         "repository": "https://github.com/zer0Kerbal/SeaDragon",
         "bugtracker": "https://github.com/zer0Kerbal/SeaDragon/issues",
+        "discussions": "https://github.com/zer0Kerbal/SeaDragon/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/SeaDragon.version"
     },
     "tags": [
@@ -46,7 +47,7 @@
         "sha1": "0AB708B56B559B1058864FCC6C5180CF2E57059D",
         "sha256": "FD7695C7D70A5D38E91B07DCAC16C43F8CA2228A7C54499D33A5C68FA463D934"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 18208633,
     "release_date": "2023-02-19T07:56:21Z",
     "_$kref": "#/ckan/spacedock/440",

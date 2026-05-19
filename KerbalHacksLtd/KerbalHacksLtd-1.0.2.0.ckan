@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "KerbalHacksLtd",
     "name": "Kerbal Hacks Limited (KHL)",
     "abstract": "Space.Just.Got.Hacked.™\n\nAgent, Flags, and common config files used in all Kerbal Hacks Ltd's (KHL)\nadd-ons for Kerbal Space Program.\n",

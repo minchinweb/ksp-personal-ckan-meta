@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LunaticAeronauticsLtd",
     "name": "Lunatic Aeronautics Ltd",
     "abstract": "Agent, flags and common configs for Lunatic Aeronautics. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/",
         "repository": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd",
         "bugtracker": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues",
+        "discussions": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LunaticAeronauticsLtd/master/LunaticAeronauticsLtd.version"
     },
     "tags": [
@@ -31,7 +32,7 @@
         "sha1": "3B6057E6530AA0EE4F8496F00E7EB58629586451",
         "sha256": "4F1CCEE6E62CF2DB9D0C5E622366DD2FAF1E1867FD5F59C53D0323F1F157CFAA"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 289017,
     "release_date": "2023-03-21T04:41:28Z",
     "_$kref": "#/ckan/spacedock/3045",

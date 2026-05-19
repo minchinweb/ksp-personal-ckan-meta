@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "ClusterOLanterns",
     "name": "Cluster O Lanterns",
     "abstract": "A kitbash of Porkjet's Jack O'Lantern and BahamutoD's Cluster Bomb to multiply your enjoyment x42. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/",
         "repository": "https://github.com/zer0Kerbal/ClusterOLanterns",
         "bugtracker": "https://github.com/zer0Kerbal/ClusterOLanterns/issues",
+        "discussions": "https://github.com/zer0Kerbal/ClusterOLanterns/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/ClusterOLanterns.version"
     },
     "tags": [
@@ -31,7 +32,7 @@
         "sha1": "6A07F8F9F2240EDDA87CD8B2A936B14F7EF00EB7",
         "sha256": "E34183347D032DF5657AE9D0311691074156B93BD81D53D1BFA4787DC43B2280"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 2503173,
     "release_date": "2022-10-30T06:15:50Z",
     "_$kref": "#/ckan/spacedock/3141",

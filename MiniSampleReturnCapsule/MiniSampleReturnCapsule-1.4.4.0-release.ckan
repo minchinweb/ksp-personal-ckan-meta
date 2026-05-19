@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "MiniSampleReturnCapsule",
     "name": "Mini Sample Return Capsule",
     "abstract": "Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/",
         "repository": "https://github.com/zer0Kerbal/MiniSampleReturnCapsule",
         "bugtracker": "https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues",
+        "discussions": "https://github.com/zer0Kerbal/MiniSampleReturnCapsule/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/MiniSampleReturnCapsule.version"
     },
     "localizations": [
@@ -35,7 +36,7 @@
         "sha1": "7E7E460AA29E4CBCEC8024B46DDC36DAD44390FE",
         "sha256": "D0488B52AC6C8215CA1258D9971F4351D8254CFE1D50480A8B4A1F79F3C5CE30"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1026104,
     "release_date": "2023-06-28T01:16:05Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "OblivionAerospace",
     "name": "Oblivion Aerospace",
     "abstract": "A small parts package of heat shields for Kerbal Space Program (KSP) that also works with Deadly Reentry.",
@@ -15,6 +15,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207446-*/",
         "repository": "https://github.com/zer0Kerbal/OblivionAerospace",
         "bugtracker": "https://github.com/zer0Kerbal/OblivionAerospace/issues",
+        "discussions": "https://github.com/zer0Kerbal/OblivionAerospace/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/OblivionAerospace.version"
     },
     "tags": [
@@ -53,7 +54,7 @@
         "sha1": "E70931DD9A650C7108D4426A30B7416E54CD98E9",
         "sha256": "0485EB304E2C415ACEE7F834FFEA438AEAD0E62FB7EFA93E1AB8DB7910FFC1E4"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 2244347,
     "release_date": "2022-05-01T07:02:11Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SimpleLogistics",
     "name": "Simple Logistics",
     "abstract": "An add-on for simple resources sharing between vessels within physics range for Kerbal Space Program.",
@@ -15,6 +15,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/",
         "repository": "https://github.com/zer0Kerbal/SimpleLogistics",
         "bugtracker": "https://github.com/zer0Kerbal/SimpleLogistics/issues",
+        "discussions": "https://github.com/zer0Kerbal/SimpleLogistics/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/SimpleLogistics.version"
     },
     "tags": [
@@ -63,7 +64,7 @@
         "sha1": "79C0D3442C643B02ED10A3FD022027379BFC6658",
         "sha256": "9B241DA49DD2E3C7E9C3CC53B5591FACA9A05FBD0D545EA1722768F9D0752727"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 360388,
     "release_date": "2022-12-30T09:48:16Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "StorkDeliverySystem",
     "name": "Stork Delivery System",
     "abstract": "Deliver your big cargo to the planet surface without flipping!",
@@ -37,7 +37,7 @@
         "sha1": "97E89C4B518EB7B017742B72A99F2C8E5BFBB2F2",
         "sha256": "21DFA8BE660A14ACEB34FF491DF8BA4EDF3550611BF0F1F84BC4238FA61379CB"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1355468,
     "release_date": "2020-03-08T09:30:23Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

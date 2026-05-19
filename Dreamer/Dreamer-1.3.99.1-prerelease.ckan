@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.10",
     "identifier": "Dreamer",
     "name": "Dreamer",
     "abstract": "A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone! For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/",
         "repository": "https://github.com/zer0Kerbal/Dreamer",
         "bugtracker": "https://github.com/zer0Kerbal/Dreamer/issues",
+        "discussions": "https://github.com/zer0Kerbal/Dreamer/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/Dreamer.version"
     },
     "tags": [
@@ -41,7 +42,7 @@
         "sha1": "5AAE4336404853F21F57E3881BDF0DA5940E285A",
         "sha256": "A454DE80B92C1643762D56AC20C916351F2237B6CD2257EC37B39614683C2DB9"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 12986149,
     "release_date": "2023-02-17T07:46:09Z",
     "_$kref": "#/ckan/spacedock/2999",

@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LazTekDev",
     "name": "Laz Tek Dev",
     "abstract": "Agent, flags and common configs for LazTek. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://zer0kerbal.github.io/LazTekDev/",
         "repository": "https://github.com/zer0Kerbal/LazTekDev",
         "bugtracker": "https://github.com/zer0Kerbal/LazTekDev/issues",
+        "discussions": "https://github.com/zer0Kerbal/LazTekDev/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LazTekDev/master/LazTekDev.version"
     },
     "tags": [
@@ -32,7 +33,7 @@
         "sha1": "9204827631191268CA65C4D4B47A3C9C753A653F",
         "sha256": "521FD19E668BFFB366CA906543E7D7CFD30E15A908FA9723447CD008DF04DEF6"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 519638,
     "release_date": "2023-03-18T20:24:11Z",
     "_$kref": "#/ckan/spacedock/3172",

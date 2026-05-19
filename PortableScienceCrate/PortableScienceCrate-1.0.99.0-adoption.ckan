@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "PortableScienceCrate",
     "name": "Portable Science Crate",
     "abstract": "Based on @RoverDude's part from the PackRat era. Useful for storing all the EVA gathered science on the fly. Can be sent back home on a probe without distracting the Kerbal from his other planetary activities. Serves the same purpose as the Stock Science Box. Great for rovers with External Command Seats and for small pods from other mods which deliberately don't have science storage in them. Requires KIS for the best experience. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/",
         "repository": "https://github.com/zer0Kerbal/PortableScienceCrate",
         "bugtracker": "https://github.com/zer0Kerbal/PortableScienceCrate/issues",
+        "discussions": "https://github.com/zer0Kerbal/PortableScienceCrate/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/PortableScienceCrate.version"
     },
     "tags": [
@@ -36,7 +37,7 @@
         "sha1": "90249563E3BB78A4810764AD037BFDD3A46ECC84",
         "sha256": "E8C88114C0DE0B09EC9E67C6E03B4C68168913872588D34EBE3D83207F7A4304"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 875102,
     "release_date": "2022-08-14T06:50:14Z",
     "_$kref": "#/ckan/spacedock/3080",

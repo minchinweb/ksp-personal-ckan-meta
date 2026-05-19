@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SolarScience",
     "name": "Solar Science",
     "abstract": "A small addon (.dll) that adds two scientific instruments for experiments around Kerbol, the sun. Both are based on instruments currently aboard the SOHO and STEREO spacecraft, respectively. When used it can provide actual up-to-date images directly from NASA from the real-world STEREO and SOHO spacecraft! For Kerbal Space Program.",
@@ -14,6 +14,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/",
         "repository": "https://github.com/zer0Kerbal/SolarScience",
         "bugtracker": "https://github.com/zer0Kerbal/SolarScience/issues",
+        "discussions": "https://github.com/zer0Kerbal/SolarScience/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/SolarScience.version"
     },
     "tags": [
@@ -41,7 +42,7 @@
         "sha1": "D03D2B8F5F673DF77DBF65F295863CAA24D222BB",
         "sha256": "1368F60E39B85365392DB4BE517102BB8B97D04E3311A612AD5FBFD6D6B71E1C"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 15886467,
     "release_date": "2022-12-11T05:35:58Z",
     "epcoh": 2,

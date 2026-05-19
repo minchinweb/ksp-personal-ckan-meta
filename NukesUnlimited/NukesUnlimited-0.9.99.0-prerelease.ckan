@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "NukesUnlimited",
     "name": "Nukes Unlimited",
     "abstract": "Adds Nuke's Unlimited agent, flags, and common config files used in all Nuke's Unlimited's add-ons for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209381-*/",
         "repository": "https://github.com/zer0Kerbal/NukesUnlimited",
         "bugtracker": "https://github.com/zer0Kerbal/NukesUnlimited/issues",
+        "discussions": "https://github.com/zer0Kerbal/NukesUnlimited/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/NukesUnlimited/master/NukesUnlimited.version"
     },
     "tags": [
@@ -42,7 +43,7 @@
         "sha1": "3F363E798E1FD52BEAFFA54D6A31200124ABF168",
         "sha256": "6C5D011F1E1F39F12F2D4216452DBE76F64ECDE936A64DA6D432C12C267704F5"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 185572,
     "release_date": "2022-08-16T04:44:34Z",
     "_$kref": "#/ckan/spacedock/3084",

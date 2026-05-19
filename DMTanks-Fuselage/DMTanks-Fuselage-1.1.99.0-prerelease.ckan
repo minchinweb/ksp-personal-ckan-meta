@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "DMTanks-Fuselage",
     "name": "Fuselage",
     "abstract": "Adds stock-a-like flat fuselage parts. These parts are rectangular fuselage pieces meant to be radially attached. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/",
         "repository": "https://github.com/zer0Kerbal/Fuselage",
         "bugtracker": "https://github.com/zer0Kerbal/Fuselage/issues",
+        "discussions": "https://github.com/zer0Kerbal/Fuselage/discussions",
         "remote-avc": "https://raw.github.com/zer0Kerbal/Fuselage/master/Fuselage.version"
     },
     "tags": [
@@ -59,7 +60,7 @@
         "sha1": "7C58B86F88D01A8E5D04999AFC25F43D8032641A",
         "sha256": "BF2B0A94E17F2039D92647510BC0B6B590B83BC849FE6EC0CC44E215AC83F864"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 2792415,
     "release_date": "2022-07-26T04:40:23Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

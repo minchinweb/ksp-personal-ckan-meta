@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "CargoFreighter",
     "name": "Coyote Cargo Freighter",
     "abstract": "Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack for Kerbal Space Program.",
@@ -14,6 +14,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209541-*/",
         "repository": "https://github.com/zer0Kerbal/CoyoteCargoFreighter",
         "bugtracker": "https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues",
+        "discussions": "https://github.com/zer0Kerbal/CoyoteCargoFreighter/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/CoyoteCargoFreighter.version"
     },
     "tags": [
@@ -62,7 +63,7 @@
         "sha1": "E7DCD4A7EB4CFC22D3DE0B93AA4CFE0E1A0A4A83",
         "sha256": "DB924B11E62E2378EDA4983E25B58734DF8A2376F8B66FD866D77A8D9D5CC4EC"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 79224172,
     "release_date": "2023-01-27T06:36:47Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

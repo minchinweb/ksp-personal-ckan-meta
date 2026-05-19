@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "ArtofReentry",
     "name": "ArtofReentry",
     "abstract": "Stylish and slightly functional heat shields",
@@ -12,6 +12,7 @@
         "spacedock": "https://spacedock.info/mod/3046/ArtofReentry",
         "repository": "https://github.com/zer0Kerbal/ArtofReentry",
         "bugtracker": "https://github.com/zer0Kerbal/ArtofReentry/issues",
+        "discussions": "https://github.com/zer0Kerbal/ArtofReentry/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ArtofReentry/master/ArtofReentry.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/ArtofReentry/ArtofReentry-1655450128.png"
     },

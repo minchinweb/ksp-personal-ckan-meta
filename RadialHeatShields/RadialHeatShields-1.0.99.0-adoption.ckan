@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "RadialHeatShields",
     "name": "Radial Heat Shields",
     "abstract": "Tired of blowing up? Tired Of Spaceplanes Exploding On Reentry? Try Not Doing That! Not Doing That is easy: simply don't do it! Use our patented radial heat shields by Orion Space Industries. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207080-*/",
         "repository": "https://github.com/zer0Kerbal/RadialHeatShields",
         "bugtracker": "https://github.com/zer0Kerbal/RadialHeatShields/issues",
+        "discussions": "https://github.com/zer0Kerbal/RadialHeatShields/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/RadialHeatShields.version"
     },
     "tags": [
@@ -38,7 +39,7 @@
         "sha1": "AB536A61881A22DE6DDFEF4FA21734E4A080E47D",
         "sha256": "16C7788E799388EA5A3BBA9B8F602642A65CB172321B498A30AE8827D6AA6B90"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 2575831,
     "release_date": "2022-04-30T06:56:00Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

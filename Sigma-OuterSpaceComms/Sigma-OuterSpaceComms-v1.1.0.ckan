@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "Sigma-OuterSpaceComms",
     "name": "Sigma OuterSpaceComms",
     "abstract": "Antennas to probe deep into outer space",
@@ -10,6 +10,7 @@
     "resources": {
         "repository": "https://github.com/Sigma88/Sigma-OuterSpaceComms",
         "bugtracker": "https://github.com/Sigma88/Sigma-OuterSpaceComms/issues",
+        "manual": "https://github.com/Sigma88/Sigma-OuterSpaceComms/wiki",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=179"
     },
     "tags": [

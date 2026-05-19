@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "DMTanks-CargoBays",
     "name": "Cargo Bays",
     "abstract": "A payload parts add-on that adds round cargo-bays of various stack sizes and lengths with fold-flat door design. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/",
         "repository": "https://github.com/zer0Kerbal/CargoBays",
         "bugtracker": "https://github.com/zer0Kerbal/CargoBays/issues",
+        "discussions": "https://github.com/zer0Kerbal/CargoBays/discussions",
         "remote-avc": "https://raw.github.com/zer0Kerbal/CargoBays/master/CargoBays.version"
     },
     "tags": [
@@ -50,7 +51,7 @@
         "sha1": "873D52477DE83BA9BA83B493417DC3D2746900DA",
         "sha256": "72B3BC0ED9DF059410ECB50A9E4C3DF4A8607EC68A7BB99430B31FE1A769650A"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1797895,
     "release_date": "2023-04-14T02:29:25Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

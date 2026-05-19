@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "WhimChaser",
     "name": "Whim Chaser",
     "abstract": "Fun-to-fly efficient vertical launch/glider return vessel that can handle rescue missions by providing a low-cost crew service vessel (CSV). For those times when you want to fly... not build. This single part has built in resources, aerodynamic control surfaces, 6-way RCS and Engines! For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/",
         "repository": "https://github.com/zer0Kerbal/WhimChaser",
         "bugtracker": "https://github.com/zer0Kerbal/WhimChaser/issues",
+        "discussions": "https://github.com/zer0Kerbal/WhimChaser/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/WhimChaser.version"
     },
     "tags": [
@@ -40,7 +41,7 @@
         "sha1": "97C4ABBCE59F89DB8AF256B101AEF018937381BF",
         "sha256": "39B2AC29B458BAE843FCEA534C53C1F3DA0E840BCA02912ABD98F26AEE9F4149"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 3779110,
     "release_date": "2023-01-31T05:30:12Z",
     "_$kref": "#/ckan/spacedock/3071",

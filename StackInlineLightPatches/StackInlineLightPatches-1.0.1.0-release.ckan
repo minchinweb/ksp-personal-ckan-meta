@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "StackInlineLightPatches",
     "name": "SIL Patches",
     "abstract": "Adds Stack Inline Lights to parts! All with full color and brightness setup and in any sizes! For Kerbal Space Program (KSP).",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/",
         "repository": "https://github.com/zer0Kerbal/SILPatches",
         "bugtracker": "https://github.com/zer0Kerbal/SILPatches/issues",
+        "discussions": "https://github.com/zer0Kerbal/SILPatches/discussions",
         "remote-avc": "https://github.com/zer0Kerbal/SILPatches/raw/master/SILPatches.version"
     },
     "tags": [
@@ -56,7 +57,7 @@
         "sha1": "DD4A3BEB8C62A31EC97BEA7052F240D21496027C",
         "sha256": "29BF5635B327A3DEBAFE9C5049EDEDFE5FF746F9EA5FADBB9C7BDE0890113A1E"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 90701,
     "release_date": "2023-03-03T03:43:37Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

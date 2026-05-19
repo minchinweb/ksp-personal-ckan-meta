@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "OScienceLaboratories",
     "name": "O Science Laboratories",
     "abstract": "Science parts addon consisting of seven science experiments, one science lab, and five novel science experiments for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/",
         "repository": "https://github.com/zer0Kerbal/OScienceLaboratories",
         "bugtracker": "https://github.com/zer0Kerbal/OScienceLaboratories/issues",
+        "discussions": "https://github.com/zer0Kerbal/OScienceLaboratories/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/OScienceLaboratories.version"
     },
     "tags": [
@@ -34,7 +35,7 @@
         "sha1": "C02314B438700EC1164F826990EDDEB359459D14",
         "sha256": "94F990981BF231ED44344755150EACDBE3366FB7446859AFDFDF1F9E1162EC9C"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 17214847,
     "release_date": "2022-11-12T04:54:45Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

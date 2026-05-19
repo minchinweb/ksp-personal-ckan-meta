@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "RoverAntiGravitySystem",
     "name": "Rover Anti Gravity System",
     "abstract": "And an other new release from your Lunatic scientists! Theeeee Rover gravity manipulator! A module to manipulate the gravity affecting your rover. You can choose which planet or moon settings you want to apply, turn it on and flyyyyyyyyyy. Sadly our scientist were not able to solve the problem of conflicting with engine electronics. For Kerbal Space Program.",
@@ -12,6 +12,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/",
         "repository": "https://github.com/zer0Kerbal/RoverAntiGravitySystem",
         "bugtracker": "https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues",
+        "discussions": "https://github.com/zer0Kerbal/RoverAntiGravitySystem/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RoverAntiGravitySystem/master/RoverAntiGravitySystem.version"
     },
     "tags": [
@@ -38,7 +39,7 @@
         "sha1": "9277A3B37D4ACA52AF70183FE40B5CE6342E79A7",
         "sha256": "C66B2FAB6BDC843C36C22CE6008718FBFD9AF9EBA252FD2861BB3630EBF1F809"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 301501,
     "release_date": "2023-07-03T04:06:29Z",
     "_$kref": "#/ckan/spacedock/3166",

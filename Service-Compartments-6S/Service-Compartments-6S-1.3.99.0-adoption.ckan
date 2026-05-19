@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "Service-Compartments-6S",
     "name": "Service Compartment Tubes",
     "abstract": "It's a tube.. and a hull... and a cargo bay... and a.. well, just about everything. And it is only 2 PARTS!!! for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209841-*/",
         "repository": "https://github.com/zer0Kerbal/ServiceCompartmentTubes",
         "bugtracker": "https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues",
+        "discussions": "https://github.com/zer0Kerbal/ServiceCompartmentTubes/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/ServiceCompartmentTubes.version"
     },
     "tags": [
@@ -37,7 +38,7 @@
         "sha1": "2D0DAED744E0B447F0BDE516CEF21F5D88A9CC11",
         "sha256": "155D7AEA8FCB1F65D19508E5C90D0E1B58605FFCD1BEE75BB71BB6939137E435"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 821133,
     "release_date": "2022-11-08T22:18:53Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

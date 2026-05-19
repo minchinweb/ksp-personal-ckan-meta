@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "DMTanks-AeroRTG",
     "name": "Aero Radial",
     "abstract": "All of the power, none of the ugly. This electric charge parts addon adding several streamlined radial attached parts: one radioisotope thermoelectric generator (RTG) and one fuel cell, for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/",
         "repository": "https://github.com/zer0Kerbal/AeroRadial",
         "bugtracker": "https://github.com/zer0Kerbal/AeroRadial/issues",
+        "discussions": "https://github.com/zer0Kerbal/AeroRadial/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/AeroRadial.version"
     },
     "tags": [
@@ -48,7 +49,7 @@
         "sha1": "72950AF3A7A8454C86A2923C63BBBAB5865DB561",
         "sha256": "2F65A463CCA02121577167C3BD7DD15FF48F8222C9CD92F0370FA9D291B6893E"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 2572355,
     "release_date": "2023-04-15T03:33:58Z",
     "x_via": "MinchinWeb's GitHub to NetKan",

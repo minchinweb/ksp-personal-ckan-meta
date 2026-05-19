@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "DaMichelLtd",
     "name": "Da Michel Ltd",
     "abstract": "This add-on provides a common agent, flag, and configs for all DaMichel products, for Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/",
         "repository": "https://github.com/zer0Kerbal/DaMichelLtd",
         "bugtracker": "https://github.com/zer0Kerbal/DaMichelLtd/issues",
+        "discussions": "https://github.com/zer0Kerbal/DaMichelLtd/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DaMichelLtd/master/DaMichelLtd.version"
     },
     "tags": [
@@ -47,7 +48,7 @@
         "sha1": "7A35A2F5F0CA239896F2A29B2F6EEBA82E309367",
         "sha256": "D8AE2827B8ED0D4C74997394ED56E9A38A17F2E7815261038FC5DBD2AB30B1AB"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1159570,
     "release_date": "2023-04-14T17:47:57Z",
     "_$kref": "#/ckan/spacedock/3027",

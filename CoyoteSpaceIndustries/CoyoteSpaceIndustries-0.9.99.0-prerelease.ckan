@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "CoyoteSpaceIndustries",
     "name": "Coyote Space Industries",
     "abstract": "Provides a common agent, flag, and configs for all Coyote Space products. For Kerbal Space Program.",
@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211679-*/",
         "repository": "https://github.com/zer0Kerbal/CoyoteSpaceIndustries",
         "bugtracker": "https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues",
+        "discussions": "https://github.com/zer0Kerbal/CoyoteSpaceIndustries/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/CoyoteSpaceIndustries/master/CoyoteSpaceIndustries.version"
     },
     "tags": [
@@ -41,7 +42,7 @@
         "sha1": "7A1533DFBDF7B0F5040239D9ECD21B081598CBB3",
         "sha256": "82EB05DCB2992285D7DB99D17499C0C94C19B37B2CCF1E601ACB3B7B19BD8A33"
     },
-    "download_content_type": "application/zip",
+    "download_content_type": "application/vnd.github+json",
     "install_size": 1017734,
     "release_date": "2023-01-27T03:25:19Z",
     "_$kref": "#/ckan/spacedock/3204",
